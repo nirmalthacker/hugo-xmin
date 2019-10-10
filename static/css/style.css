@@ -3,6 +3,8 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
+  background-image: url("../images/so-white.png");
+  color: #413f3d;
 }
 
 /* header and footer areas */
